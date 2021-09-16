@@ -22,7 +22,7 @@ doSomeThingPromise
 
 
 
-/*
+
 // Callbacks
 function doSomeThing(callback) {
     setTimeout(function() {
@@ -63,5 +63,3 @@ function doAll() {
 }
 
 doAll();
-
-*/
